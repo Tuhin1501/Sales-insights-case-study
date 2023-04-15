@@ -1,4 +1,4 @@
-# Sales-insights-dashboard-case-study
+# Atliq-hardware-sales-insights-analysis
 Sales revenue analysis for a brick and motors company
 
 Atliq hardware supplies computer hardware and equipment, with their main office located in Delhi, India. 
